@@ -1,4 +1,3 @@
-import clsx from 'clsx';
 import { FC } from 'react';
 import { FormType } from '../../types/todo';
 import Button from '../UI/Button/Button';

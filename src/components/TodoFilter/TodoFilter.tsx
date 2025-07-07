@@ -1,4 +1,3 @@
-import clsx from 'clsx';
 import { FC } from 'react';
 import { FilterType } from '../../types/todo';
 import Button from '../UI/Button/Button';
