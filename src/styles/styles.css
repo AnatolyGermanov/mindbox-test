@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input,
+textarea,
+select,
+button {
+    font: inherit;
+}
+
+body {
+    background-color: lightgray;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+
+    padding-top: 20px;
+}

@@ -1,0 +1,10 @@
+.form {
+    display: flex;
+    column-gap: 5px;
+    padding-block: 10px;
+}
+
+.btn {
+    padding: 5px 10px;
+    cursor: pointer;
+}

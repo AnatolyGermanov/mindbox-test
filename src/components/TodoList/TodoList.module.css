@@ -1,0 +1,9 @@
+.list {
+    list-style-type: none;
+}
+
+.item:not(:last-child) {
+    border-bottom: 1px lightgray solid;
+}
+
+

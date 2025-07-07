@@ -1,0 +1,10 @@
+.todo {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding-block: 5px;
+}
+
+.todo.completed {
+    text-decoration: line-through;
+}

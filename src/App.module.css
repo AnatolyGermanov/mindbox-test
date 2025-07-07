@@ -1,0 +1,27 @@
+.todos {
+    min-width: 800px;
+    background-color: white;
+    padding-top: 5px;
+}
+
+.title {
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.body {
+    padding: 10px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding: 10px;
+    background-color: lightyellow;
+}
+
+.filter {
+    margin-inline: auto;
+}

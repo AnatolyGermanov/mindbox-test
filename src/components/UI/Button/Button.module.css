@@ -1,0 +1,15 @@
+.btn {
+    padding: 2px 5px;
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+.btn:hover,
+.btn.active {
+    border-color: black;
+    color: black;
+}
